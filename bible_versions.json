@@ -1,0 +1,18 @@
+[
+  {
+    "lang": "English",
+    "name": "World English Bible (WEB) — Public Domain",
+    "desc": "आधुनिक अंग्रेज़ी अनुवाद, सार्वजनिक डोमेन। पूरी बाइबल को इसी वेबसाइट पर स्थानीय रूप से शामिल करने के लिए आधिकारिक ZIP डाउनलोड करके साइट पैकेज में रखना होगा। इस वातावरण में ZIP डाउनलोड नहीं हो सका, इसलिए अभी आधिकारिक रीडर का लिंक दिया गया है।",
+    "url": "https://ebible.org/engwebp/",
+    "license_url": "https://ebible.org/engwebp/copyright.htm",
+    "note": "WEB पाठ को कॉपी/पुनर्प्रकाशित किया जा सकता है। अनुवाद का पाठ न बदलें और बदले हुए पाठ को WEB नाम न दें।"
+  },
+  {
+    "lang": "Hindi",
+    "name": "Indian Revised Version (IRV) Hindi — CC BY-SA 4.0",
+    "desc": "हिंदी संस्करण जिसे CC BY-SA 4.0 के तहत उपलब्ध बताया गया है। इसे जोड़ते समय श्रेय, लाइसेंस और ShareAlike की शर्तें पूरी करनी होंगी।",
+    "url": "https://ebible.org/hin2017/",
+    "license_url": "https://ebible.org/hin2017/copyright.htm",
+    "note": "इस बाहरी वेबसाइट का लिंक नई टैब में खुलेगा।"
+  }
+]
